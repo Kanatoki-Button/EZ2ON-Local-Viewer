@@ -2,6 +2,7 @@
 Unofficial local score viewer for EZ2ON REBOOT:R
 
 本アプリケーションは非公式で製作された、EZ2ON REBOOT:R用のローカルスコアビューワです。
+すべてChatGPTによるバイブコーディングで生成されています。
 
 原則としてゲーム本体やセーブデータの書き込み・改変・改竄を行わず、またアプリケーション単体の通信も行いません。
 
